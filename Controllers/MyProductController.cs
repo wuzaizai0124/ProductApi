@@ -48,5 +48,9 @@ namespace MicDapr.ProductApi.Controllers
     {
       return "Ok";
     }
+    private string TestCommit()
+    {
+      return "ceshi";
+    }
   }
 }
