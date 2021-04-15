@@ -36,7 +36,7 @@ namespace MicDapr.ProductApi.Controllers
     [Route("checkheath")]
     public string CheckHeath()
     {
-      return "Ok";
+      return "Ok"; 
     }
     /// <summary>
     /// 测试
