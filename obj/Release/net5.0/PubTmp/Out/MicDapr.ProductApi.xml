@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MicDapr.ProductApi</name>
+    </assembly>
+    <members>
+        <member name="M:MicDapr.ProductApi.Controllers.MyProductController.GetProducts">
+            <summary>
+            获取商品
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
